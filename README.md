@@ -8,8 +8,8 @@ A simple yet functional **console-based calculator** in C++ that includes a **lo
 
 | Credential | Value C++   | Value C        |
 |------------|---------    |---------       |
-| User ID    | `10004`     | 'aryan_khatri' |
-| Password   | `1234`      | 'aryan'        |
+| User ID    | `10004`     | `aryan_khatri` |
+| Password   | `1234`      | `aryan`        |
 
 Only the above credentials will grant access to the calculator.
 
