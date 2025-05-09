@@ -6,10 +6,10 @@ A simple yet functional **console-based calculator** in C++ that includes a **lo
 
 ##  Login Credentials
 
-| Credential | Value   |
-|------------|---------|
-| User ID    | `10004` |
-| Password   | `1234`  |
+| Credential | Value C++   | Value C        |
+|------------|---------    |---------       |
+| User ID    | `10004`     | 'aryan_khatri' |
+| Password   | `1234`      | 'aryan'        |
 
 Only the above credentials will grant access to the calculator.
 
