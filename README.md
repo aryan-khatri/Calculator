@@ -1,4 +1,4 @@
-#  C++ Calculator with Login Authentication
+#  C & C++ Calculator with Login Authentication
 
 A simple yet functional **console-based calculator** in C++ that includes a **login authentication** feature to restrict access to authorized users.
 
